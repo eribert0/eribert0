@@ -2,10 +2,10 @@
 
 - 🌱 Estudando Java, Spring boot
 
-<div>
+<div align="center>
     <a href="https://github.com/eribert0"></a>
-    <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=eribert0&show_icons=true&theme=algolia"/>
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eribert0&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="140em" width="42%" src="https://github-readme-stats.vercel.app/api?username=eribert0&show_icons=true&theme=algolia"/>
+    <img height="140em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eribert0&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 <div style="display: inline_block"><br>
