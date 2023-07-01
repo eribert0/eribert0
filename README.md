@@ -22,5 +22,8 @@
   <a href="https://www.youtube.com/channel/UCIlhurFJhZZS7G_O8KKtnaA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/eriberto_junnior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+
+
+  ![snake gif](https://github.com/eribert0/eribert0/blob/output/github-contribution-grid-snake.svg)
   
 </div>
