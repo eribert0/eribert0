@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Java, Spring boot
 
-<div align="center">
+<div>
     <a href="https://github.com/eribert0"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eribert0&show_icons=true&theme=algolia"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eribert0&layout=compact&langs_count=7&theme=algolia"/>
