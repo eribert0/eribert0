@@ -1,6 +1,8 @@
-### Olá, sou o Eriberto 👋
+<div align="center">
+    <h3> Heyy, I'm Eriberto, a brazilian programmer 👋 <h3/>
+</div>
 
-- 🌱 Estudando Java, Spring boot
+<br/>
 
 <div align="center">
     <a href="https://github.com/eribert0"></a>
@@ -8,17 +10,25 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eribert0&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-<div style="display: inline_block"><br>
+<br/>
+<br/>
 
-  <img align="center" alt="Bebeto-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Bebeto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bebeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bebeto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+## **👨‍💻 Skills:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
-## 
+<br/>
 
-<div> 
+## **⌨️ Currently studying:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)&nbsp;
+
+<br/>
+
+## **🌠 You can find me on:**
   <a href="https://www.youtube.com/channel/UCIlhurFJhZZS7G_O8KKtnaA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/eriberto_junnior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+
